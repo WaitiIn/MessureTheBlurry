@@ -69,8 +69,6 @@
 			isa = PBXGroup;
 			children = (
 				40B881361CD30D1800FCC7C4 /* MessureTheBlurry */,
-				40B881321CD304D400FCC7C4 /* MessureTheBlurry.h */,
-				40B881331CD304D400FCC7C4 /* MessureTheBlurry.mm */,
 				40B8811E1CD303B200FCC7C4 /* AppDelegate.h */,
 				40B8811F1CD303B200FCC7C4 /* AppDelegate.m */,
 				40B881211CD303B200FCC7C4 /* ViewController.h */,
@@ -95,6 +93,8 @@
 		40B881361CD30D1800FCC7C4 /* MessureTheBlurry */ = {
 			isa = PBXGroup;
 			children = (
+				40B881331CD304D400FCC7C4 /* MessureTheBlurry.mm */,
+				40B881321CD304D400FCC7C4 /* MessureTheBlurry.h */,
 			);
 			name = MessureTheBlurry;
 			sourceTree = "<group>";
